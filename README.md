@@ -1,5 +1,5 @@
 <div align="center">
-  <img justify-content="center" width= '800' src="" />
+  <!-- <img justify-content="center" width= '800' src="" /> -->
   <h1>RocketCoffee</h1>
 </div>
 
@@ -13,18 +13,18 @@ O projeto foi desenvolvido com o objetivo de fazer um cardápio com acesso ao QR
 - CSS
 - Gerador de QRCode
 
-<!-- ## ⏱ Como executar
+## ⏱ Como executar
 
 ```bash
 # Clonar o repositório
-$ git clone https://github.com/polyanetuag/Pokemon.git
+$ git clone https://github.com/polyanetuag/rocketCoffee.git
 
 # Entrar na pasta
-$ cd Pokemon
+$ cd rocketCoffee
 
 # Para a execução, foi utilizada a extensão live server
 
-``` -->
+```
 
 ## 📝 Licença
 
