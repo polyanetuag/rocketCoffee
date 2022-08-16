@@ -1,6 +1,6 @@
 <div align="center">
   <!-- <img justify-content="center" width= '800' src="" /> -->
-  <h1>RocketCoffee</h1>
+  <h1>RocketCoffee - Sistema de cardápio online</h1>
 </div>
 
 ## 📚 Sobre
