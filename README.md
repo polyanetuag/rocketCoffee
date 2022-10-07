@@ -1,7 +1,7 @@
 <div align="center">
-  <!-- <img justify-content="center" width= '800' src="" /> -->
   <h1>RocketCoffee</h1>
   <h2>Sistema de cardápio online</h2>
+  <img justify-content="center" width= '220' src="./src/img.png" />
 </div>
 
 ## 📚 Sobre
