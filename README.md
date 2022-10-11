@@ -6,7 +6,7 @@
 
 ## 📚 Sobre
 
-O projeto foi desenvolvido com o objetivo de fazer um cardápio online, sendo acessado pelo QRCode.
+O projeto foi desenvolvido com o objetivo de fazer um cardápio online, podendo ser acessado pelo QRCode.
 
 ## 🚀 Tecnologias utilizadas:
 
