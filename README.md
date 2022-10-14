@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>RocketCoffee</h1>
-  <h2>Cardápio online</h2>
+  <h1>RocketCoffee - Cardápio digital</h1>
   <img justify-content="center" width= '250' src="./src/img.png" />
 </div>
 
