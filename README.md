@@ -1,6 +1,6 @@
 <div align="center">
   <h1>RocketCoffee - Cardápio digital</h1>
-  <img justify-content="center" width= '250' src="./src/img.png" />
+  <img justify-content="center" width= '200' src="./src/img.png" />
 </div>
 
 ## 📚 Sobre
