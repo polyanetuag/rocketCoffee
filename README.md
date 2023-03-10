@@ -1,5 +1,6 @@
 <div align="center">
   <h1>RocketCoffee</h1>
+  <h2>Cardápio digital</h2>
   <img justify-content="center" width= '200' src="./src/img.png" />
 </div>
 
