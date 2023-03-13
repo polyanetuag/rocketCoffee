@@ -14,7 +14,7 @@ O projeto foi desenvolvido com o objetivo de praticar html e css. A ideia foi fa
 - CSS
 - Gerador de QRCode
 
-## ⏱ Como executar
+## ⏱️ Como executar
 
 ```bash
 # Clonar o repositório
