@@ -23,9 +23,9 @@ $ git clone https://github.com/polyanetuag/rocketCoffee.git
 # Entrar na pasta
 $ cd rocketCoffee
 
-# Para a execução, foi utilizada a extensão live server
-
 ```
+
+*Obs:* Para a execução, foi utilizada a extensão live server do VsCode
 
 ## 📝 Licença
 
