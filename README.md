@@ -6,7 +6,8 @@
 
 ## 📚 Sobre
 
-O projeto foi desenvolvido com o objetivo de praticar html e css. A ideia foi fazer um cardápio online, em que pode ser acessado via QRCode.
+O projeto foi desenvolvido com o objetivo de praticar html e css. 
+A ideia foi fazer um cardápio online, em que pode ser acessado via QRCode.
 
 ## 🚀 Tecnologias utilizadas:
 
