@@ -8,7 +8,7 @@
 
 O projeto foi desenvolvido com o objetivo de praticar as tecnologias html e css. 
 
-A ideia foi fazer um cardápio online, podendo ser acessado via **QRCode.**
+A ideia foi fazer um cardápio de café da manhã online, podendo ser acessado via **QRCode.**
 
 ## 🚀 Tecnologias utilizadas:
 
